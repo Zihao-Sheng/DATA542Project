@@ -58,19 +58,31 @@ ChatGPT also assisted in the development of the **`complex_NX`** visualization p
 
 ---
 
+```md
 ## 📂 Repository Structure
 
-```md
+
 FURTHER_EXPLORATION/
+│── 🗂️ .ipynb_checkpoints/
+│── 🗂️ __pycache__/
+│
+│── 📘 2_D_Drawing_Test.ipynb
 │── 📘 Topic_EX.ipynb
 │── 🧩 complex_NX.py
-└── 📄 repo_activity.csv
+│── 🌐 P_35_E_50.html
+│── 🌐 _nx_2d_temp.html
+│── 🌐 community_2d.html
+│── 📄 repo_activity.csv
+└── 📄 README.md
+
 
 MILESTONE1/
 └── 📄 MILESTONE1PLAN.pdf
 
+
 MILESTONE2/
 │── 📁 Code/
+│   │── 🗂️ .ipynb_checkpoints/
 │   │── 📘 AIDev_TOPIC1_TOPIC2_Cleaning.ipynb
 │   │── 📘 AIDev_TOPIC3_Cleaning.ipynb
 │   │── 📘 Topic1.ipynb
@@ -87,6 +99,33 @@ MILESTONE2/
 │
 │── 📄 MILESTONE2REPORT.pdf
 └── 📦 MILESTONE2SOURCE_CODE.zip
+
+
+MILESTONE3/
+│── 📁 Code/
+│   │── 🗂️ .ipynb_checkpoints/
+│   │── 📘 AIDev_TOPIC1_TOPIC2_Cleaning.ipynb
+│   │── 📘 AIDev_TOPIC3_Cleaning.ipynb
+│   │── 📘 Topic1.ipynb
+│   │── 📘 Topic2.ipynb
+│   │── 📘 Topic3.ipynb
+│   │── 📄 failed.csv
+│   │── 📄 quality.csv
+│   └── 📄 repo_activity.csv
+│
+│── 📁 Code_Output/
+│   │── 🌐 AIDev_TOPIC1_TOPIC2_Cleaning.html
+│   │── 🌐 AIDev_TOPIC3_Cleaning.html
+│   │── 🌐 Topic1.html
+│   │── 🌐 Topic2.html
+│   └── 🌐 Topic3.html
+│
+│── 📄 MILESTONE3REPORT.pdf
+└── 📦 MILESTONE3SOURCE_CODE.zip
+
+
+📄 README.md
+
 
 ```
 

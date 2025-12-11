@@ -58,9 +58,9 @@ ChatGPT also assisted in the development of the **`complex_NX`** visualization p
 
 ---
 
-```md
 ## 📂 Repository Structure
 
+```md
 
 FURTHER_EXPLORATION/
 │── 🗂️ .ipynb_checkpoints/
